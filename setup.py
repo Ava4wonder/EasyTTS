@@ -27,7 +27,7 @@ setup(
         "numpy",
         "timm",
         "torch",
-        "tensorflow==2.13",
+        "tensorflow",
         "soundfile",
         "TensorFlowTTS",
     ],
